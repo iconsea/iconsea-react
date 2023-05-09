@@ -1,0 +1,17 @@
+{
+  "name": "iconsea-react",
+  "version": "1.0.0",
+  "description": "Most Popular svg icon hubs",
+  "author": "thisismrali",
+  "license": "MIT",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iconsea/iconsea-react.git"
+  },
+  "main": "./",
+  "peerDependencies": {
+    "react": "*"
+  },
+  "module": "./index.esm.js"
+}
